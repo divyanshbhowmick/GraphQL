@@ -1,0 +1,22 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "Learning GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyanshbhowmick/GraphQL.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Divyansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyanshbhowmick/GraphQL/issues"
+  },
+  "homepage": "https://github.com/divyanshbhowmick/GraphQL#readme"
+}
